@@ -10,7 +10,7 @@ module.exports = {
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
     contact: {
       name: `Matthew Jutrzonka`,
-      company: `Web Programming 2`,
+      company: `Show Me The Code`,
       address: `MATC: 700 W. State Street, Milwaukee, WI 53233`,
     },
   },
@@ -45,7 +45,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/coding.png`, // This path is relative to the root of the site.
       },
     },
   ],

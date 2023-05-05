@@ -12,14 +12,13 @@ const About = ({data}) => {
         <Seo title="Home" />
         <h1>About Us</h1>
         <p>{`${company} was started by ${name} in 2022.`}</p>
-        <p>{`At ${company} we just make blogs!`}</p>
         <div style={{ maxWidth: `300px`, marginBottom: `1.45rem`}}>
             <StaticImage 
-                src="../images/gatsby-icon.png"
+                src="../images/coding.png"
                 width={300}
                 quality={95}
                 formats={["auto", "webp", "avif"]}
-                alt= "A Gatsby icon"
+                alt= "Coding Icon"
                 style={{ marginBottom: `1.4rem`}}
             />
         </div>

@@ -18,7 +18,7 @@ const Contact = ({ data }) => {
 
       <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
         <StaticImage
-          src="../images/gatsby-icon.png"
+          src="../images/coding.png"
           width={300}
           quality={95}
           formats={["auto", "webp", "avif"]}
