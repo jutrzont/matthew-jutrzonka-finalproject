@@ -4,14 +4,14 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog`,
-    description: `ITDEV-164 Gatsby Blog.`,
+    title: `Show Me The Code`,
+    description: `ITDEV-164 Final Project`,
     author: `Matthew Jutrzonka`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
     contact: {
       name: `Matthew Jutrzonka`,
-      company: `Blogs Inc.`,
-      address: `PO Box 1234`,
+      company: `Web Programming 2`,
+      address: `MATC: 700 W. State Street, Milwaukee, WI 53233`,
     },
   },
   plugins: [
